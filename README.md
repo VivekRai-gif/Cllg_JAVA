@@ -80,6 +80,21 @@ This repository contains a series of Java programs based on core Object-Oriented
 41. WAP to achieve inter-process communication using `wait()` and `notify()`.
 
 ---
+ Java-OOP-Assignments/
+├── 📁 src/
+│ ├── ClassAndObject/
+│ ├── Inheritance/
+│ ├── Polymorphism/
+│ ├── Abstraction/
+│ ├── Interface/
+│ ├── Packages/
+│ ├── Recursion/
+│ ├── Matrix/
+│ ├── Patterns/
+│ ├── Exceptions/
+│ ├── FileIO/
+│ └── Multithreading/
+├── README.md
 
 ## 🛠️ How to Run
 
